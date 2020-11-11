@@ -1,4 +1,4 @@
-name: 'Setup MSBuild.exe'
+name: 'Setup MSBuild.exe with new add-path'
 description: 'Uses VSWhere.exe to locate latest MSBuild & put it into the PATH'
 author: 'Warren Buckley'
 runs:
